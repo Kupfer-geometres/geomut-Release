@@ -10,8 +10,8 @@
     <homepage>https://github.com/Kupfer-geometres/geomut-Release</homepage>
     <tracker>https://github.com/Kupfer-geometres/GeoMut/issues</tracker>
     <repository>https://github.com/Kupfer-geometres/GeoMut</repository>
-    <download_url>https://github.com/Kupfer-geometres/geomut-Release/releases/download/v0.1.0/GeoMut_MultiVersion_v0.1.0.zip</download_url>
-    <file_name>GeoMut_MultiVersion_v0.1.0.zip</file_name>
+    <download_url>https://github.com/Kupfer-geometres/geomut-Release/releases/download/v0.1.0/GeoMut.zip</download_url>
+    <file_name>GeoMut.zip</file_name>
     <uploaded_by>Kupfer Géomètres</uploaded_by>
     <create_date>2026-02-23</create_date>
     <tags>cadastre,mutation,geomut</tags>

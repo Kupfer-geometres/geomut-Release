@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <plugins>
-  <pyqgis_plugin name="GeoMut" version="0.0.2">
+  <pyqgis_plugin name="GeoMut" version="0.0.3">
     <description>Plugin QGIS pour la gestion cadastrale et les mutations</description>
     <about>GeoMut est un plugin QGIS complet pour la gestion des données cadastrales, incluant l'import/export de bases GDB, la gestion des mutations avec versioning, l'application de symbologies et la gestion de layouts.</about>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <qgis_minimum_version>3.42.1</qgis_minimum_version>
     <author>Kupfer Géomètres</author>
     <email>contact@kupfer-geometre.ch</email>
     <homepage>https://github.com/Kupfer-geometres/geomut-Release</homepage>
     <tracker>https://github.com/Kupfer-geometres/GeoMut/issues</tracker>
     <repository>https://github.com/Kupfer-geometres/GeoMut</repository>
-    <download_url>https://github.com/Kupfer-geometres/geomut-Release/releases/download/v0.0.2/GeoMut.zip</download_url>
+    <download_url>https://github.com/Kupfer-geometres/geomut-Release/releases/download/v0.0.3/GeoMut.zip</download_url>
     <file_name>GeoMut.zip</file_name>
     <uploaded_by>GitHub Actions</uploaded_by>
     <create_date>2026-02-25</create_date>
